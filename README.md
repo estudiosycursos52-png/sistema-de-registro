@@ -1,3 +1,3 @@
 <h1>Sitema de Registro</h1>
 
-- Estado del proyecto: En constuncion.
+- Estado del proyecto: En construccion.
