@@ -4,6 +4,6 @@
 
 para ejecucar el sisteman, debes poner:
 
-'''npm install react'''
+"'npm install react'"
 
 sistema de registro 2
